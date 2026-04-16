@@ -1,0 +1,41 @@
+OrderID,Customer Name,City,Product,Quantity,Price,Total,Order Date,Payment Status
+1, Aman Sharma ,Delhi,Laptop,2,55000,,12-01-2024,Paid
+2,Priya Verma,Mumbai,Mobile,1,20000,20000,13-01-2024,Paid
+3,Rohit Kumar,Delhi,Tablet,3,15000,45000,14-01-2024,Pending
+4,Neha Singh, ,Laptop,1,55000,55000,15-01-2024,Paid
+5,Ankit Gupta,Jaipur,Mobile,2,twenty thousand,40000,16-01-2024,Paid
+6,Sneha Patel,Ahmedabad,Laptop,1,55000,55000,17-01-2024,paid
+7,Rahul Yadav,Delhi,Tablet,2,15000,30000,18-01-2024,Pending
+8,Kavya Mishra,Mumbai,Mobile,1,20000,20000,19-01-2024,Paid
+9,Arjun Mehta,Pune,Laptop,1,55000,,20-01-2024,Paid
+10,Simran Kaur,Delhi,Tablet,,15000,30000,21-01-2024,Pending
+11,Deepak Chauhan,Delhi,Mobile,2,20000,40000,22-01-2024,Paid
+12,Pooja Sharma,Mumbai,Laptop,1,55000,55000,23-01-2024,Paid
+13,Vikas Singh,Jaipur,Tablet,2,15000,30000,24-01-2024,Pending
+14,Anjali Verma,Delhi,Mobile,1,20000,20000,25-01-2024,Paid
+15,Manish Kumar,Delhi,Laptop,1,55000,55000,26-01-2024,
+16,Ritika Jain,Mumbai,Tablet,2,15000,30000,27-01-2024,Paid
+17,Sachin Yadav,Ahmedabad,Mobile,1,20000,20000,28-01-2024,Paid
+18,Meena Gupta,Delhi,Laptop,1,55000,55000,29-01-2024,Paid
+19,Ajay Patel,Pune,Tablet,2,15000,30000,30-01-2024,Pending
+20,Divya Sharma,Mumbai,Mobile,1,20000,20000,31-01-2024,Paid
+21,Nikhil Verma,Delhi,Laptop,1,55000,55000,01-02-2024,Paid
+22,Shreya Singh,Mumbai,Tablet,2,15000,30000,02-02-2024,Pending
+23,Karan Mehta,Pune,Mobile,1,20000,20000,03-02-2024,Paid
+24,Payal Gupta,Jaipur,Laptop,1,55000,55000,04-02-2024,Paid
+25,Raj Kumar,Delhi,Tablet,2,15000,30000,05-02-2024,Pending
+26,Komal Patel,Ahmedabad,Mobile,1,20000,20000,06-02-2024,Paid
+27,Amit Yadav,Delhi,Laptop,1,55000,55000,07-02-2024,Paid
+28,Nisha Sharma,Mumbai,Tablet,2,15000,30000,08-02-2024,Pending
+29,Sandeep Singh,Delhi,Mobile,1,20000,20000,09-02-2024,Paid
+30,Alka Verma,Jaipur,Laptop,1,55000,55000,10-02-2024,Paid
+31, Aman Sharma ,Delhi,Laptop,2,55000,,12-01-2024,Paid
+32,Priya Verma,Mumbai,Mobile,1,20000,20000,13-01-2024,Paid
+33,Rohit Kumar,Delhi,Tablet,3,15000,45000,14-01-2024,Pending
+34,Neha Singh,Delhi,Laptop,1,55000,55000,15-01-2024,Paid
+35,Ankit Gupta,Jaipur,Mobile,2,20000,40000,16-01-2024,Paid
+36,Sneha Patel,Ahmedabad,Laptop,1,55000,55000,17-01-2024,Paid
+37,Rahul Yadav,Delhi,Tablet,2,15000,30000,18-01-2024,Pending
+38,Kavya Mishra,Mumbai,Mobile,1,20000,20000,19-01-2024,Paid
+39,Arjun Mehta,Pune,Laptop,1,55000,55000,20-01-2024,Paid
+40,Simran Kaur,Delhi,Tablet,2,15000,30000,21-01-2024,Pending
